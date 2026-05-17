@@ -1,1 +1,1 @@
-1.0.2|https://github.com/thietkelongson/VPT-PCCC/releases/download/v1.0.1/VPT_PCCC.dll
+1.0.1|https://github.com/thietkelongson/VPT-PCCC/releases/download/v1.0.1/VPT_PCCC.dll
