@@ -1,6 +1,7 @@
 {
   "version": "1.0.5",
   "builds": {
-    "2024": "https://github.com/thietkelongson/VPT-PCCC/releases/download/v1.0.5/VPT_PCCC_2024.dll"
+    "2024": "https://github.com/thietkelongson/VPT-PCCC/releases/download/v1.0.5/VPT_PCCC_2024.dll",
+    "2025": "https://github.com/thietkelongson/VPT-PCCC/releases/download/v1.0.5/VPT_PCCC_2025.dll"
   }
 }
